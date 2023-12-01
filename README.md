@@ -43,6 +43,4 @@ Welcome to the Texture Tales Sales Analysis Project! This project focuses on ana
 2. Execute the provided SQL queries in the specified order to perform the sales analysis.
 3. Customize or extend the queries based on specific analysis requirements.
 
-Feel free to explore and adapt the queries to gain deeper insights into Texture Tales' sales data.
 
-Happy analyzing! 🚀📈
